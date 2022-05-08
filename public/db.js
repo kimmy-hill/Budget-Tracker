@@ -1,4 +1,7 @@
+// create variable to hold db connection
 let db;
+
+//establish a connectino to IndexedDB
 const request = indexedDB.open("budget", 1);
 
 request.onupgradeneeded = function (event) {
