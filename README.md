@@ -12,8 +12,10 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 Mock-Up:
+<img width="1512" alt="Screen Shot 2022-05-08 at 7 27 44 PM" src="https://user-images.githubusercontent.com/95260935/167320172-541550d1-6d4b-423e-ac50-e1e7a55c6d1b.png">
+
 
 Heroku Link:
-
+https://stark-inlet-08375.herokuapp.com
 
 Starter Code: https://github.com/coding-boot-camp/symmetrical-bassoon
